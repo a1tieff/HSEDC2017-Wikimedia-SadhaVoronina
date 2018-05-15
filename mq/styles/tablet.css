@@ -1,0 +1,12 @@
+@media (min-width: 768px) and (max-width: 1023) {
+
+  .screen .tablet {
+    display: block;
+    background-color: white;
+  }
+
+  .screen .desktop {
+    display: none;
+  }
+
+}
